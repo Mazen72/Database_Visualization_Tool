@@ -1,0 +1,17 @@
+Nessecity,criteria,constraint,proposal,effect,countereffect
+RT-Required ,Criteria_1,constraint_1,proposal_1,effect_1,countereffect_1
+RT-Margin,Criteria_2,constraint_2,proposal_2,effect_2,countereffect_2
+RT-Sensitivity-Required,Criteria_3,constraint_3,proposal_3,effect_3,countereffect_3
+RT-Sensitivity-Margin,Criteria_4,constraint_4,proposal_4,effect_4,countereffect_4
+RT-Required ,Criteria_1,constraint_1,proposal_1,effect_1,countereffect_1
+RT-Required ,Criteria_1,constraint_1,proposal_1,effect_1,countereffect_1
+RT-Required ,Criteria_1,constraint_1,proposal_1,effect_1,countereffect_1
+RT-Margin,Criteria_2,constraint_2,proposal_2,effect_2,countereffect_2
+RT-Sensitivity-Required,Criteria_3,constraint_3,proposal_3,effect_3,countereffect_3
+RT-Sensitivity-Margin,Criteria_4,constraint_4,proposal_4,effect_4,countereffect_4
+RT-Margin,Criteria_2,constraint_2,proposal_2,effect_2,countereffect_2
+RT-Sensitivity-Required,Criteria_3,constraint_3,proposal_3,effect_3,countereffect_3
+RT-Sensitivity-Margin,Criteria_4,constraint_4,proposal_4,effect_4,countereffect_4
+RT-Margin,Criteria_2,constraint_2,proposal_2,effect_2,countereffect_2
+RT-Sensitivity-Required,Criteria_3,constraint_3,proposal_3,effect_3,countereffect_3
+RT-Sensitivity-Margin,Criteria_4,constraint_4,proposal_4,effect_4,countereffect_4
